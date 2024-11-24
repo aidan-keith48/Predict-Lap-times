@@ -52,7 +52,7 @@ data = pd.read_csv('/content/your_file_name.csv')
 ## ▶️ Running the Project
 
 1. 🔧 Open the Jupyter Notebook (`.ipynb`) in Google Colab or a local Jupyter environment.
-2. 📤 Make sure the CSV file (`hungry_laptimes.csv`) is uploaded to the correct location in your directory structure.
+2. 📤 Make sure the CSV file (`our_file_name.csv`) is uploaded to the correct location in your directory structure.
 3. 🚦 Run the cells in the notebook sequentially to perform data analysis and prediction.
 
 ---
