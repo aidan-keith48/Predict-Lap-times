@@ -1,6 +1,6 @@
 # 🏎️ Predict Lap Times 🕒
 
-This project is designed to predict lap times for Formula 1 cars during free practice sessions, aiming to estimate race pace based on historical data. For this specific implementation, I captured **Lewis Hamilton's** lap times 🏁, using them as the dataset for the analysis and predictions. This project was just a fun little experiment to gain some insight into python and different technologies that are used! 
+This project is designed to predict lap times for Formula 1 cars during free practice sessions, aiming to estimate race pace based on historical data. For this specific implementation, I captured **Lewis Hamilton's** lap times 🏁, using them as the dataset for the analysis and predictions. This project was just a fun little experiment to gain some insight into Python and different technologies that are used! 
 
 ⚠️ **Note:** The predictions are not entirely accurate or reflective of real-life scenarios, as many variables (like track conditions, fuel loads, tire degradation, etc.) aren't accounted for in this simplified model.
 
@@ -52,8 +52,28 @@ data = pd.read_csv('/content/your_file_name.csv')
 ## ▶️ Running the Project
 
 1. 🔧 Open the Jupyter Notebook (`.ipynb`) in Google Colab or a local Jupyter environment.
-2. 📤 Make sure the CSV file (`our_file_name.csv`) is uploaded to the correct location in your directory structure.
+2. 📤 Make sure the CSV file (`your_file_name.csv`) is uploaded to the correct location in your directory structure.
 3. 🚦 Run the cells in the notebook sequentially to perform data analysis and prediction.
+
+---
+
+## 📦 Cloning or Downloading the Project
+
+To clone or download this project to your local machine:
+
+### Cloning
+1. Open a terminal and run the following command:
+   ```bash
+   git clone https://github.com/your-username/repo-name.git
+   ```
+2. Navigate into the cloned directory:
+   ```bash
+   cd your-repo-name
+   ```
+
+### Downloading
+1. Click on the green **Code** button at the top-right of the repository page.
+2. Select **Download ZIP** and extract the contents to your desired location.
 
 ---
 
